@@ -1,0 +1,45 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+GLM_DEFAULT	define.c	13;"	d	file:
+GLM_DEFAULT	define.c	6;"	d	file:
+GLM_DEFAULT_CTOR	define.c	10;"	d	file:
+GLM_DEFAULT_CTOR	define.c	14;"	d	file:
+GLM_DEFAULT_CTOR	define.c	8;"	d	file:
+GLM_FLAG	define.c	3;"	d	file:
+GLM_FORCE_NO_CTOR_INIT	define.c	4;"	d	file:
+I	image1.py	/^        I = cv2.imread(sys.argv[1], cv2.CV_LOAD_IMAGE_GRAYSCALE)$/;"	v
+IPoint	mirrior.cpp	/^Point2f  IPoint, pIPoint;$/;"	v
+O	image1.py	/^    O = O.astype(np.uint8)$/;"	v
+O	image1.py	/^    O = float(a)*i$/;"	v
+O	image1.py	/^    O = np.round(O)$/;"	v
+WINDNAME	mirrior.cpp	10;"	d	file:
+WINDNAME	test.cpp	11;"	d	file:
+a	image1.py	/^    a = 2$/;"	v
+calcGrayHist	equalHist.cpp	/^Mat calcGrayHist(const Mat &image)$/;"	f
+drawHistogram	grayvalue.cpp	/^void drawHistogram(Mat & image)$/;"	f
+dst	mirrior.cpp	/^Point2f dst[4];$/;"	v
+equalHist	equalHist.cpp	/^Mat equalHist(Mat image)$/;"	f
+i	mirrior.cpp	/^int i = 0, j = 0;$/;"	v
+j	mirrior.cpp	/^int i = 0, j = 0;$/;"	v
+main	angfunc.c	/^int main()$/;"	f
+main	clahe.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	define.c	/^int main(int argc, const char * argv[])$/;"	f
+main	equalHist.cpp	/^int main(int argc, const char **argv)$/;"	f
+main	filter.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	gama.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	grayvalue.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	mirrior.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	polyar.cpp	/^int main(int argc, const char * argv[])$/;"	f
+main	test.cpp	/^int main(int argc, const char * argv[])$/;"	f
+medianSmooth	filter.cpp	/^Mat medianSmooth(const Mat & I, Size size, int borderType = BORDER_DEFAULT)$/;"	f
+mouse_Img	mirrior.cpp	/^void mouse_Img(int event, int x, int y, int flags, void * param)$/;"	f
+mouse_pImg	mirrior.cpp	/^void mouse_pImg(int event, int x, int y, int flags, void * param)$/;"	f
+pIPoint	mirrior.cpp	/^Point2f  IPoint, pIPoint;$/;"	v
+pImg	mirrior.cpp	/^Mat pImg;$/;"	v
+polar	polyar.cpp	/^Mat polar(Mat I, Point2f center, Size size, float minr = 0, \\$/;"	f
+print	angfunc.c	/^void print(double num)$/;"	f
+src	mirrior.cpp	/^Point2f src[4];$/;"	v
